@@ -9,7 +9,7 @@ The code has been refracted to meet accessibility standards and optimize search 
 
 Uses HTML and CSS
 
-## Screen
+## Screenshot
 <img width="505" alt="Mika Feng Horiseon Page" src="https://user-images.githubusercontent.com/110942241/198400550-45df73ea-fee6-4660-be12-3abe5d4c7c82.png">
 
 ## Installation
