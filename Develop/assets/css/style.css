@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Header and Nav Styling*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,13 +39,13 @@ a {
 }
 
 /*combine header ul li*/
-
 .header ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
 
+/*Figure Hero Styling*/
 .hero {
     height: 800px;
     width: 100%;
@@ -54,18 +55,18 @@ a {
     background-position: center;
 }
 
-
+/*Main Styling*/
 p {
     font-size: 16px;
 }
 
-/*combined all h2 elements*/
+/*combined h2 elements*/
  h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/*combined selectors with same css properties*/
+/*combined css selctors*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -78,13 +79,11 @@ p {
 }
 
 
-/*combined selectors with same css properties*/
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
-
 
 
 .float-left {
@@ -103,7 +102,7 @@ p {
     margin-left: 20px;
 }
 
-
+/*Aside Styling*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -115,14 +114,13 @@ p {
     background-color: #2589bd;
 }
 
-
-/*combined all h3 propertiess*/
+/*combined h3 elements*/
 h3 {
-      margin-bottom: 10px;
+    margin-bottom: 10px;
     text-align: center;  
 }
 
-/*combined selectors with same css properties*/
+/*combined css selectors*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost
@@ -131,7 +129,6 @@ h3 {
     color: #ffffff;
 }
 
-/*combined selectors with same css elements*/
 .benefits img,
 .benefit-brand img,
 .benefit-cost img {
@@ -140,7 +137,7 @@ h3 {
     max-width: 150px;
 }
 
-
+/*footer styling*/
 .footer {
     padding: 30px;
     clear: both;
@@ -148,6 +145,6 @@ h3 {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
